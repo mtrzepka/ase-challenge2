@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Challenge2 App</string>
+    <string name="action_settings">Settings</string>
+	<string name="size_prompt">Select  size</string>
+	<string name="color_prompt">Select  color</string>
+	<string name="bgcolor_prompt">Select  bgcolor</string>
+	<string name="hello_world">Hello world!</string>
+</resources>
