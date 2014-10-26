@@ -7,7 +7,10 @@
     <uses-sdk
         android:minSdkVersion="9"
         android:targetSdkVersion="17" />
-<uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
+    <uses-permission android:name="android.permission.INTERNET" >
+    </uses-permission>
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
@@ -25,11 +28,15 @@
         <activity
             android:name="com.example.challenge2app.QRCodeActivity"
             android:label="@string/app_name" >
-            </activity>
-            <activity
+        </activity>
+        <activity
             android:name="com.example.challenge2app.ReadQRCodeActivity"
             android:label="@string/app_name" >
-            </activity>
+        </activity>
+        <activity
+            android:name="com.example.challenge2app.InstagramActivity"
+            android:label="@string/title_activity_instagram" >
+        </activity>
     </application>
 
 </manifest>
