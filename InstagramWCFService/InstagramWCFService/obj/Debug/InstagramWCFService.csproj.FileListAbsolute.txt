@@ -1,0 +1,4 @@
+c:\users\mtrbqb\documents\visual studio 2010\Projects\InstagramWCFService\InstagramWCFService\bin\InstagramWCFService.dll
+c:\users\mtrbqb\documents\visual studio 2010\Projects\InstagramWCFService\InstagramWCFService\bin\InstagramWCFService.pdb
+c:\users\mtrbqb\documents\visual studio 2010\Projects\InstagramWCFService\InstagramWCFService\obj\Debug\InstagramWCFService.dll
+c:\users\mtrbqb\documents\visual studio 2010\Projects\InstagramWCFService\InstagramWCFService\obj\Debug\InstagramWCFService.pdb
