@@ -1,0 +1,14 @@
+c:\users\mkdn9\RestServiceRemoteDb\RestServiceRemoteDb\bin\RestServiceRemoteDb.dll
+c:\users\mkdn9\RestServiceRemoteDb\RestServiceRemoteDb\bin\RestServiceRemoteDb.pdb
+c:\users\mkdn9\RestServiceRemoteDb\RestServiceRemoteDb\obj\Debug\RestServiceRemoteDb.dll
+c:\users\mkdn9\RestServiceRemoteDb\RestServiceRemoteDb\obj\Debug\RestServiceRemoteDb.pdb
+\\kc.umkc.edu\kc-users\home\w\wzd4c\Desktop\1\Service\RestDatabase_local_Version\RestServiceRemoteDb\bin\RestServiceRemoteDb.dll
+\\kc.umkc.edu\kc-users\home\w\wzd4c\Desktop\1\Service\RestDatabase_local_Version\RestServiceRemoteDb\bin\RestServiceRemoteDb.pdb
+\\kc.umkc.edu\kc-users\home\w\wzd4c\Desktop\1\Service\RestDatabase_local_Version\RestServiceRemoteDb\obj\Debug\RestServiceRemoteDb.csprojResolveAssemblyReference.cache
+\\kc.umkc.edu\kc-users\home\w\wzd4c\Desktop\1\Service\RestDatabase_local_Version\RestServiceRemoteDb\obj\Debug\RestServiceRemoteDb.dll
+\\kc.umkc.edu\kc-users\home\w\wzd4c\Desktop\1\Service\RestDatabase_local_Version\RestServiceRemoteDb\obj\Debug\RestServiceRemoteDb.pdb
+\\kc.umkc.edu\kc-users\home\w\wzd4c\Desktop\1\Service\LoginServiceWDatabase\RestServiceRemoteDb\bin\RestServiceRemoteDb.dll
+\\kc.umkc.edu\kc-users\home\w\wzd4c\Desktop\1\Service\LoginServiceWDatabase\RestServiceRemoteDb\bin\RestServiceRemoteDb.pdb
+\\kc.umkc.edu\kc-users\home\w\wzd4c\Desktop\1\Service\LoginServiceWDatabase\RestServiceRemoteDb\obj\Debug\RestServiceRemoteDb.csprojResolveAssemblyReference.cache
+\\kc.umkc.edu\kc-users\home\w\wzd4c\Desktop\1\Service\LoginServiceWDatabase\RestServiceRemoteDb\obj\Debug\RestServiceRemoteDb.dll
+\\kc.umkc.edu\kc-users\home\w\wzd4c\Desktop\1\Service\LoginServiceWDatabase\RestServiceRemoteDb\obj\Debug\RestServiceRemoteDb.pdb
